@@ -1,0 +1,9 @@
+@font-face {
+    font-family: gxs;
+    src: url("https://irmapserver.ir/qepal/fonts/vrb.woff");
+  }
+
+.test
+{
+    background:darkgreen ;
+}
