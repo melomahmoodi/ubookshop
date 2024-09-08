@@ -44,8 +44,8 @@ export const Block = props => {
 
 
           <img src={props.state.cart.includes(props.book.title)?
-          "https://cdn.turing.team/research/65/check-mark.png":
-          "https://cdn.turing.team/research/65/shopping-cart.png"}
+          "https://cdn.ituring.ir/research/65/check-mark.png":
+          "https://cdn.ituring.ir/research/65/shopping-cart.png"}
           style={{height:30,
             width:30,objectFit:"contain", margin:"0 10px"}}/>
 
